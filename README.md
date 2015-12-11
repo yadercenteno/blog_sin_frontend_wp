@@ -9,6 +9,7 @@ Las entradas del blog serán visibles en http://tuservidor.com/blog_sin_frontend
 WordPress está instalado en la carpeta "blogbase", el cual siempre deberán usar (como Backend) para escribir nuevas entradas, agregar usuarios, aprobar comentarios, etc. En este caso (uso de Backend), deberán acceder a la página de autenticación: http://tuservidor.com/blog_sin_frontend_wp/blogbase/wp-admin, donde tuservidor.com debe ser tu website.  Los datos del usuario Administrador del WordPress son (recuerden cambiarlos ya estándo logueados en el backend de WordPress): 
 
 Usuario:  admin
+
 Clave:    admin
 
 TODAVIA PENDIENTE:
