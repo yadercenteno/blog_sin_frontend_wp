@@ -13,4 +13,4 @@ Usuario:  admin
 Clave:    admin
 
 TODAVIA PENDIENTE:
-* Las imagenes que se tienen alguna propiedad de que el texto las rodee, se muestran bien, pero el texto NO las rodea.  Debe haber algúna propiedad CSS que permita esto, pero yo no lo he encontrado.
+* Las imagenes que tienen alguna propiedad CSS que hace que el texto las rodee, se muestran bien, pero el texto NO las rodea, solo la primera linea de texto.  Debe haber algúna propiedad CSS de WordPress que permita esto, pero yo no lo he encontrado.  Cualquier ayuda/contribución en este tema es bienvenida. 
